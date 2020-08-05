@@ -1,8 +1,8 @@
 ### Hi there, I'm Abrar [website] 👋
 
 ## I'm a Aspiring Data Scientist
-- 🔭 I’m currently working on my Bachelor's in Computer Science and Finance
-- 🌱 I’m currently learning everything 🤣
+- I’m currently working on my Bachelor's in Computer Science and Finance
+- I’m currently learning everything 🤣
 - Big Esports fan/player
 
 ### Connect with me:
