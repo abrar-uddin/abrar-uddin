@@ -31,6 +31,7 @@
 <br/>
 <br/>
 
+[![HitCount](http://hits.dwyl.com/{abrar-uddin}/{abrar-uddin}.svg)](http://hits.dwyl.com/{abrar-uddin}/{abrar-uddin})
 ---
 
 [website]: http://abrar-uddin.github.io/
