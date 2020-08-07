@@ -1,4 +1,5 @@
-### Hi there, I'm Abrar [website] 👋
+### Hi there, I'm Abrar 👋
+#### [website] | [resume]
 
 ## I'm a Aspiring Data Scientist
 - I’m currently working on my Bachelor's in Computer Science and Finance
@@ -34,3 +35,4 @@
 
 [website]: http://abrar-uddin.github.io/
 [linkedin]: https://www.linkedin.com/in/abrar-uddin/
+[resume]: https://1drv.ms/b/s!ArNKKE-qXBcD1ihwT0ZF7MAwo0Rg
