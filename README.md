@@ -31,7 +31,7 @@
 <br/>
 <br/>
 
-[![HitCount](http://hits.dwyl.com/abrar-uddin/abrar-uddin.svg)](http://hits.dwyl.com/abrar-uddin/abrar-uddin)
+![ViewCount](https://views.whatilearened.today/views/github/abrar-uddin/abrar-uddin.svg)
 ---
 
 [website]: http://abrar-uddin.github.io/
