@@ -32,7 +32,6 @@
 <br/>
 
 [![HitCount](http://hits.dwyl.com/abrar-uddin/abrar-uddin.svg)](http://hits.dwyl.com/abrar-uddin/abrar-uddin)
-[![HitCount](http://hits.dwyl.com/jayehernandez/jayehernandez.svg)](http://hits.dwyl.com/jayehernandez/jayehernandez)
 ---
 
 [website]: http://abrar-uddin.github.io/
