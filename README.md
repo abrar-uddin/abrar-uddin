@@ -36,4 +36,4 @@
 
 [website]: http://abrar-uddin.github.io/
 [linkedin]: https://www.linkedin.com/in/abrar-uddin/
-[resume]: https://1drv.ms/b/s!ArNKKE-qXBcD1ihwT0ZF7MAwo0Rg
+[resume]: https://1drv.ms/b/s!ArNKKE-qXBcD6mQrAN9umiGJMU93
