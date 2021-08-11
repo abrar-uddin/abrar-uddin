@@ -18,7 +18,7 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
-<img align="left" alt="Pycharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" />
+<img align="left" alt="Pycharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" />
