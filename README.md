@@ -1,8 +1,9 @@
 ### Hi there, I'm Abrar 👋
 #### [website] | [resume]
 
-## I'm an Aspiring Data Scientist
-- I’m currently working on my Bachelor's in Computer Science and Finance
+## I'm a Data Scientist
+- I’m currently working on my Master's in Analytics
+- Bachelors in CS and Finance
 - On track to learning everything 🤣
 - Big Esports fan/player
 
