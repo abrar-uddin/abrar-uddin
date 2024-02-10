@@ -2,8 +2,8 @@
 #### [website] | [resume]
 
 ## I'm a Data Scientist
-- I’m currently working on my Master's in Analytics
-- Bachelors in CS and Finance
+- Masters in Analytics @ GTech
+- Bachelors in CS and Finance @ FIU
 - On track to learning everything 🤣
 - Big Esports fan/player
 
