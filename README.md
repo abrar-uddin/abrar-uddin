@@ -1,5 +1,4 @@
 ### Hi there, I'm Abrar 👋
-#### [website] | [resume]
 
 ## I'm a Data Scientist
 - Masters in Analytics @ GTech
